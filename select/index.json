@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "It's a Beautiful Day",
+  "base_artist": "Michael Bublé",
+  "createdAt": "2025-12-12T04:03:40.410114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It’s a beautiful day",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/01_It’s_a_beautiful_day_米倉千尋.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_It's_A_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_It's_A_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_It's_a_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_It's_a_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "Sarah Brightman",
+      "has_synced": true,
+      "path": "select/06_It's_A_Beautiful_Day_Sarah_Brightman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "SunSet Swish",
+      "has_synced": false,
+      "path": "select/07_It's_A_Beautiful_Day_SunSet_Swish.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day",
+      "artist": "Liverpool Express",
+      "has_synced": true,
+      "path": "select/08_It's_a_Beautiful_Day_Liverpool_Express.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It’s a Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/09_It’s_a_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day",
+      "artist": "Tim McMorris",
+      "has_synced": true,
+      "path": "select/10_It's_a_Beautiful_Day_Tim_McMorris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day (Reprise)",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/11_It's_A_Beautiful_Day_(Reprise)_Queen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Queen  It'S A Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/12_Queen_It'S_A_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "Sarah Brightman",
+      "has_synced": true,
+      "path": "select/13_It's_A_Beautiful_Day_Sarah_Brightman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's A Beautiful Day",
+      "artist": "Sarah Brightman",
+      "has_synced": true,
+      "path": "select/14_It's_A_Beautiful_Day_Sarah_Brightman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/15_It's_a_Beautiful_Day_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It’s A Beautiful Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_It’s_A_Beautiful_Day_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's A Beautiful Day",
+      "artist": "Michael Bublé",
+      "has_synced": false,
+      "path": "select/pl_01_It's_A_Beautiful_Day_Michael_Bublé.txt"
+    }
+  ]
+}
